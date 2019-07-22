@@ -30,13 +30,13 @@ const User = () => {
   } else {
     return (
       <ul>
-        <li class="loading">
+        <li className="loading">
           <span>Loading</span>
         </li>
-        <li class="loading">
+        <li className="loading">
           <span>Loading</span>
         </li>
-        <li class="loading">
+        <li className="loading">
           <span>Loading</span>
         </li>
       </ul>

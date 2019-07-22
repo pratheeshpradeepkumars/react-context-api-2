@@ -6,7 +6,7 @@ const Spinner = () => {
   return (
     <>
       {loadingCount > 0 && (
-        <div class="spinner">
+        <div className="spinner">
           <div />
           <div />
           <div />
